@@ -1,0 +1,3 @@
+class UserRepositery {
+  async findOneByEmail() {}
+}

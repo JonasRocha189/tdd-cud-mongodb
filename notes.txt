@@ -1,0 +1,7 @@
+npm init -y
+npm i -D jest
+npm i mongodb
+
+script: jest --watchAll
+
+create folder src
